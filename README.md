@@ -1,6 +1,6 @@
 # My Bitcoin Node
 
-C# Examples running bitcoin nodes
+C# Examples running bitcoin nodes with VS2017 and .Net Core.
 
 ## Stratis
 
