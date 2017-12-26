@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "stratis": {
+      "commandName": "Project",
+      "commandLineArgs": "-testnet -datadir=M:\\data\\stratis_bitcoin_testnet"
+    }
+  }
+}
